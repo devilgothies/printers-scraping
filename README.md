@@ -3,7 +3,7 @@
 ## Clone e execute o script localmente
 
 ```
-git clone https://gitlab.deltasul.com.br/NicolasdaSilvaAraujo/printers-info-scraping/
+git clone https://github.com/devilgothies/printers-scraping/
 cd printers-info-scraping
 python3 printers-info-scraping.py
 ```
