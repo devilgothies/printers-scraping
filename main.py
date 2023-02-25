@@ -1,13 +1,3 @@
-#  ___      _ _                _
-# |   \ ___| | |_ __ _ ____  _| |
-# | |) / -_) |  _/ _` (_-< || | |
-# |___/\___|_|\__\__,_/__/\_,_|_|
-#
-# Printers Info Scraping v1
-# Script para realizar scraping no painel web das impressoras instaladas nas lojas, e filtrar informações relevantes sobre a mesma.
-# Cheque o repositório oficial -> https://gitlab.deltasul.com.br/NicolasdaSilvaAraujo/printers-info-scraping/
-
-
 import requests
 from bs4 import BeautifulSoup
 import csv
